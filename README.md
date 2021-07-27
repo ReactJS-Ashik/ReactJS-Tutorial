@@ -1,8 +1,7 @@
 # ReactJS-Tutorial
 ***This repository is just for teaching ReactJS***
 
-![reactBlog1](https://user-images.githubusercontent.com/41672214/127028641-b81bcb3f-9daf-4ea4-88c2-93b08f869d6e.jpg)
-
+![reactBlog2](https://user-images.githubusercontent.com/41672214/127209045-358db7c7-74e6-40ed-a174-4a843437082f.jpg)
 
 
 **If you are interesting in learning the ReactJS from Scratch please follow the full course in my medium blog**
